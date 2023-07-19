@@ -17,8 +17,6 @@ The `build` function defines the architecture of the CNN model. It uses Conv2D l
 
 Make sure to have the dataset correctly structured with separate folders for "man" and "woman" images. You can adjust the parameters such as `epochs`, `batch_size`, and data augmentation settings to further optimize the model's performance.
 
-If you have any specific questions or need further assistance, feel free to ask!
-
 
 
 
